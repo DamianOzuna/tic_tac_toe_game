@@ -1,8 +1,6 @@
 import pygame, sys, random
 from pygame.locals import *
 
-pygame.init()
-
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 
